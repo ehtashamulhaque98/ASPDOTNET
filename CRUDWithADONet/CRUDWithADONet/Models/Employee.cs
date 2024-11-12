@@ -18,5 +18,7 @@ namespace CRUDWithADONet.Models
         public string City { get; set; }
         [Required]
         public string Email { get; set; }
+        [Required]
+        public string EmployeeType { get; set; }
     }
 }

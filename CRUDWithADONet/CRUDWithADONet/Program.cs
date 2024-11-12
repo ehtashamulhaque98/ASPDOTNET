@@ -22,15 +22,15 @@ app.UseRouting();
 app.UseAuthorization();
 
 //app.MapControllerRoute(
-    //name: "default",
-    //pattern: "{controller=Home}/{action=Index}/{id?}");
-
-//app.MapControllerRoute(
-    //name: "default",
-    //pattern: "{controller=EmployeeController1}/{action=Index}/{id?}");
+//name: "default",
+//pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
-    name: "studentRoute",
-    pattern: "{controller=StudentController1}/{action=Index}/{id?}");
+    name: "default",
+    pattern: "{controller=EmployeeController1}/{action=Index}/{id?}");
+
+//app.MapControllerRoute(
+//    name: "studentRoute",
+//    pattern: "{controller=StudentController1}/{action=Index}/{id?}");
 
 app.Run();
