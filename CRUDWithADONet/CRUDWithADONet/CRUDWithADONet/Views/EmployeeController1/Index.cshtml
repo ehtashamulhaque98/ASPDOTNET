@@ -1,0 +1,65 @@
+﻿@model List<CRUDWithADONet.Models.Employee>
+
+<h2>Employee List</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Age</th>
+            <th>Salary</th>
+            <th>City</th>
+            <th>Email</th>
+            <th>EmployeeTypeId</th> 
+            <th>EmployeeType</th>  
+            <th>Actions</th> 
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+              
+                <td>@employee.Id</td>
+                <td>@employee.Name</td>
+                <td>@employee.Gender</td>
+                <td>@employee.Age</td>
+                <td>@employee.Salary</td>
+                <td>@employee.City</td>
+                <td>@employee.Email</td>
+                <td>@employee.EmployeeTypeId</td>
+                <td>@employee.EmployeeType</td>  
+              
+                <td>
+                    <a href="@Url.Action("Update", "EmployeeController1", new { id = employee.Id })" class="btn btn-primary">Update</a>
+                    <a href="@Url.Action("Delete", "EmployeeController1", new { id = employee.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr> 
+        }
+    </tbody>
+</table>
+
+
+@* <h2>Employee Type List</h2>
+
+<form method="post" action="/Employee/Save">
+    <div>
+        <label for="EmployeeType">Select Employee Type:</label>
+        <select id="EmployeeType" name="EmployeeType">
+            <option value="">-- Select Employee Type --</option>
+            @foreach (var item in ViewBag.EmployeeTypes as List<SelectListItem>)
+            {
+                <option value="@item.Value">@item.Text</option>
+            }
+        </select>
+    </div>
+    <div>
+        <button type="submit">Submit</button>
+    </div>
+</form> *@
+
+
+<a asp-action="Create" class="btn btn-primary">Add New Employee</a>
+
+

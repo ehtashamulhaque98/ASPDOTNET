@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\dataaccesslayer\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\dataaccesslayer\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\employeecontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\employeecontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\employeecontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\employeecontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\employeecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\employeecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\employeecontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\employeecontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\models\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\models\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\dataaccesslayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\dataaccesslayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\controllers\\studentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\controllers\\studentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\studentcontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\studentcontroller1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\studentcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\studentcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\studentcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\studentcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|c:\\users\\ehtas\\source\\repos\\crudwithadonet\\crudwithadonet\\views\\studentcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380325D3-821C-4773-9DA1-0D2BE434A1EC}|CRUDWithADONet\\CRUDWithADONet.csproj|solutionrelative:crudwithadonet\\views\\studentcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\appsettings.json",
+              "RelativeToolTip": "CRUDWithADONet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T07:02:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController1.cs",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Controllers\\EmployeeController1.cs",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Controllers\\EmployeeController1.cs",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Controllers\\EmployeeController1.cs",
+              "RelativeToolTip": "CRUDWithADONet\\Controllers\\EmployeeController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:51:23.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\EmployeeController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Index.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\EmployeeController1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:14:15.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\DataAccessLayer\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\DataAccessLayer\\EmployeeData.cs",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\DataAccessLayer\\EmployeeData.cs",
+              "RelativeToolTip": "CRUDWithADONet\\DataAccessLayer\\EmployeeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:01:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\EmployeeController1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Create.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\EmployeeController1\\Create.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAGMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:07:33.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Update.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\EmployeeController1\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Update.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\EmployeeController1\\Update.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:41:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\EmployeeController1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\EmployeeController1\\Delete.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\EmployeeController1\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T05:32:52.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUDWithADONet\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:41:54.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Models\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Models\\EmployeeType.cs",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Models\\EmployeeType.cs",
+              "RelativeToolTip": "CRUDWithADONet\\Models\\EmployeeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:35:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\DataAccessLayer\\StudentData.cs",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\DataAccessLayer\\StudentData.cs",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\DataAccessLayer\\StudentData.cs",
+              "RelativeToolTip": "CRUDWithADONet\\DataAccessLayer\\StudentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:01:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController1.cs",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Controllers\\StudentController1.cs",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Controllers\\StudentController1.cs",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Controllers\\StudentController1.cs",
+              "RelativeToolTip": "CRUDWithADONet\\Controllers\\StudentController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:44:39.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Update.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\StudentController1\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Update.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\StudentController1\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:17:28.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\StudentController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Index.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\StudentController1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:14:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\StudentController1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Create.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\StudentController1\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:07:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithADONet\\Views\\StudentController1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ehtas\\source\\repos\\CRUDWithADONet\\CRUDWithADONet\\Views\\StudentController1\\Delete.cshtml",
+              "RelativeToolTip": "CRUDWithADONet\\Views\\StudentController1\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:10:24.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

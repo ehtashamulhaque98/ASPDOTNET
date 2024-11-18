@@ -1,0 +1,39 @@
+﻿@model List<CRUDWithADONet.Models.Student>
+
+<h2>Student List</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>Department</th>
+            <th>PhoneNumber</th>
+            <th>City</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Gender</td>
+                <td>@student.Age</td>
+                <td>@student.Email</td>
+                <td>@student.Department</td>
+                <td>@student.PhoneNumber</td>
+                <td>@student.City</td>
+                <td>
+                    <a href="@Url.Action("Update", "StudentController1", new { id = student.Id })" class="btn btn-primary">Update</a>
+                    <a href="@Url.Action("Delete", "StudentController1", new { id = student.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Add New Student</a>
